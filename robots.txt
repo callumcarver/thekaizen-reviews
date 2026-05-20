@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reviews.thekaizen.co/sitemap.xml
