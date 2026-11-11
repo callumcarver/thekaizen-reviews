@@ -1,0 +1,81 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "The Kaizen",
+        "url": "https://thekaizen.co",
+        "logo": "https://thekaizen.co/img/logo.png",
+        "founder": {
+            "@type": "Person",
+            "name": "Callum Carver",
+            "url": "https://callumcarver.com"
+        },
+        "description": "The Kaizen is an online coaching and mentorship company. Flagship programme Skill to Profit has helped over 750 students generate $4.5M in revenue. Turning Skills Into Profit.",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.6",
+            "reviewCount": "72",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "sameAs": [
+            "https://www.trustpilot.com/review/thekaizen.co",
+            "https://www.instagram.com/callumcarver",
+            "https://thekaizen.beehiiv.com",
+            "https://www.crunchbase.com/organization/the-kaizen"
+        ]
+    }
+    </script>
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Is The Kaizen legit?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. The Kaizen is a UK-registered coaching company (THEKAIZEN LTD, Company No. 14664065) founded by Callum Carver. It holds a 4.6/5 rating on Trustpilot from 72 verified reviews and has helped over 750 students collectively generate $4.5M in revenue."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is The Kaizen's flagship program?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Skill to Profit — a coaching program that helps people monetise the skills they already have. Available in group format ($3,900-$4,900) and 1-on-1 format ($9,000-$10,000+)."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Who is The Kaizen's 1-on-1 mentorship for?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Operators already generating revenue who want personal access to Callum and the senior coaching team. The 1-on-1 tier is application-only and works best for people with existing skill sets, existing income, and the bandwidth to execute quickly."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What kind of results do The Kaizen's students get?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Results range widely depending on starting point, skill, and execution. Documented student outcomes include first $5K-$10K months, scaling from $4K to $40K+/month, and multi-six-figure businesses built within 12-24 months. All reviews on this page link back to verifiable sources (Trustpilot, Whop, or named student interviews)."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How many people has The Kaizen coached?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Over 750 students, with the active community currently around 400. The company operates with a team of 15+ coaches and staff."
+                }
+            }
+        ]
+    }
+    </script>
